@@ -1,0 +1,9 @@
+{
+  "files": [],
+  "references": [
+    { "path": "packages/shared" },
+    { "path": "packages/agent-core" },
+    { "path": "apps/server" },
+    { "path": "apps/client" }
+  ]
+}

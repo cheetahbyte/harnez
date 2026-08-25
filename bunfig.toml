@@ -1,0 +1,11 @@
+[install]
+exact = true
+prefer = "offline"
+
+[test]
+root = "."
+coverage = true
+
+[run]
+# Auto-load environment variables
+env = true

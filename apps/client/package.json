@@ -1,0 +1,14 @@
+{
+  "name": "@harnez/client",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "./src/index.ts",
+  "scripts": {
+    "start": "bun src/index.ts",
+    "dev": "bun --watch src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@harnez/shared": "workspace:*"
+  }
+}
