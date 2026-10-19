@@ -58,7 +58,7 @@
 		"@opentelemetry/exporter-trace-otlp-http": "^0.223.0",
 		"@opentelemetry/sdk-metrics": "^2.10.0",
 		"@opentelemetry/sdk-node": "^0.223.0",
-		"@opentui/core": "^0.5.3",
+		"@opentui/core": "^0.6.6",
 		"pino": "^10.3.1",
 		"zustand": "^5.0.15"
 	},
